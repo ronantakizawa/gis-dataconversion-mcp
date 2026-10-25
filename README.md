@@ -1,6 +1,6 @@
 # GIS Data Conversion MCP
 
-[![smithery badge](https://smithery.ai/badge/@ronantakizawa/gis-dataconvertersion-mcp)](https://smithery.ai/server/@ronantakizawa/gis-dataconvertersion-mcp)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.ronantakizawa/gis-dataconversion-mcp)](https://lightnow.ai/servers/io.github.ronantakizawa/gis-dataconversion-mcp)
 
 <a href="https://glama.ai/mcp/servers/@ronantakizawa/gis-dataconvertersion-mcp">
   <img width="380" height="200" src="https://glama.ai/mcp/servers/@ronantakizawa/gis-dataconvertersion-mcp/badge" />
